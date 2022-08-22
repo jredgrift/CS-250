@@ -1,5 +1,6 @@
 # CS-250
 SDLC
+
 1.) How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 I will ask a user precisely what they want a program to do.  When necessary I will ask for more information to better understand what they want from the program.  Creating a user story will allow anyone to read and understand what the user wants from a program.  The stories are written in plain english, so they can be easily understood by anyone.
 
